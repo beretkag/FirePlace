@@ -15,7 +15,7 @@ h1
     background-color: #424242;
     margin-right: 900px;
     height: 100%;
-    
+    width: 380px;
 }
 
 hr
@@ -48,4 +48,15 @@ div
 .terkoz
 {
     line-height: 50px;
+}
+
+.cim
+{
+    color: black;
+    margin-left: 380px;
+    text-align: center;
+}
+ul
+{
+    list-style-type: none;
 }
