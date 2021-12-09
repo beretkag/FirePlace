@@ -1,0 +1,8 @@
+Az elõzõ heti nyerõszámok: 30	54	55	81	89
+
+Múlt heti nyerõ számok: 30	57	58	61	86
+
+Leggyakoribb számok: 3	  1	29	75	15
+
+
+
