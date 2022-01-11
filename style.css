@@ -23,7 +23,10 @@ h1
     padding-left: 0px;
 }
 
-
+.betumeret
+{
+    font-size: 60px;
+}
 
 .container
 {
@@ -38,7 +41,6 @@ h1
 
 h2
 {
-   
     font-weight: bold;
     color: black;
 }
