@@ -12,6 +12,18 @@ h1
     color: black;
 }
 
+p
+{
+    font-size: 20px;
+    line-height: 40px;
+    padding-left: 25px;
+}
+
+.szin
+{
+    color: black;
+}
+
 .container-fluid
 {
     float: left;
