@@ -7,37 +7,34 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <link rel="stylesheet" href="style.css">
+    <script src="js.js"></script>
     <title>Lottó</title>
 </head>
 <body>
-  <aside>
-      <nav class="navbar-dark bg-dark" id="leftsidebar">
-        <div class="container-fluid">
-          <div class="collapse" id="navbarToggleExternalContent">
+  <div class="container-fluid">
+      <nav id="leftsidebar">
             <h5 class="text-white"><img src="kepek/hatter.png"></h5>
-            <a href="index.html" class="text-white col-md-12 col-lg-12 col-xl-12">Korábbi sorsolások</a><hr>
-            <a href="leggyakoribb.html" class="text-white col-md-12 col-lg-12 col-xl-12">Leggyakoribb számok</a><hr>
-            <a href="leghasonlobb.html" class="text-white col-md-12 col-lg-12 col-xl-12">Leghasonlóbb számsorok</a><hr>
-            <a href="leghosszabb.html" class="text-white col-md-12 col-lg-12 col-xl-12">Leghosszabb sorozatok számsorokban</a><hr>
-            <a href="legkisebb.html" class="text-white col-md-12 col-lg-12 col-xl-12">Legkisebb összegű számsorok</a><hr>
-            <a href="grafikon.html" class="text-white col-md-12 col-lg-12 col-xl-12">Grafikonok</a><hr>
-            <a href="erdekes.html" class="text-white col-md-12 col-lg-12 col-xl-12">Érdekes történetek</a>
-        </div>
-          
-          <button class="navbar-toggler col-xs-0 col-sm-0 col-md-12 col-lg-12 col-xl-12" type="button" data-bs-toggle="collapse" data-bs-target="#navbarToggleExternalContent" aria-controls="navbarToggleExternalContent" aria-expanded="false" aria-label="Toggle navigation">
-            <span class="navbar-toggler-icon"></span>
-          </button>
-        </div>
+           <a href="index.html" class="text-white">Korábbi sorsolások</a><hr>
+            <a href="leggyakoribb.html" class="text-white">Leggyakoribb számok</a><hr>
+            <a href="leghasonlobb.html" class="text-white">Leghasonlóbb számsorok</a><hr>
+            <a href="leghosszabb.html" class="text-white">Leghosszabb sorozatok számsorokban</a><hr>
+            <a href="legkisebb.html" class="text-white">Legkisebb összegű számsorok</a><hr>
+            <a href="grafikon.html" class="text-white">Grafikonok</a><hr>
+            <a href="erdekes.html" class="text-white">Érdekes történetek</a>
+            <button class="nepls" id="gomb" type="button">
+              <span class="navbar-toggler-icon"></span>
       </nav>
-    
-    <div id="tartalom main" class="container">
-      <h1 class="terkoz" class="col-xs-12 col-sm-11 col-md-10 col-lg-10 col-xl-10">Grafikonok</h1>
-      <h2 class="terkoz" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">5-ös találatok nyeremény értéke:</h2>
-      <img src="kepek/5_nyer.png" alt="" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
-      <h2 class="terkoz col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">A 90 szám gyakorisága:</h2>
-      <img src="kepek/szam_gyak.png" alt="" id="golyo" class="col-xs-12 col-sm-11 col-md-10 col-lg-10 col-xl-10">
     </div>
-    </aside>
+        
+        
+        <div id="tartalom main" class="container">
+          <h1 class="terkoz" class="col-xs-12 col-sm-11 col-md-10 col-lg-10 col-xl-10">Grafikonok</h1>
+          <h2 class="terkoz" class="col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">5-ös találatok nyeremény értéke:</h2>
+          <img src="kepek/5_nyer.png" alt="" class=" kepek col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">
+          <h2 class="terkoz col-xs-12 col-sm-12 col-md-12 col-lg-12 col-xl-12">A 90 szám gyakorisága:</h2>
+          <img src="kepek/szam_gyak.png" alt="" class="kepek col-xs-12 col-sm-11 col-md-10 col-lg-10 col-xl-10">
+        </div>
+  </div>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 </body>
 </html>
