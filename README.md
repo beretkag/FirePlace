@@ -1,57 +1,57 @@
-## __Lottó Projekt__
+# __Lottó Projekt__
 
-#### [Github](https://beretkag.github.io/FirePlace/)
-#### [Jira](https://bg-1.atlassian.net/jira/)
+### [Github](https://beretkag.github.io/FirePlace/)
+### [Jira](https://bg-1.atlassian.net/jira/)
 
 ---
 
-#### __Csapattagok__
+### __Csapattagok__
 - Brkity Dominika 
 - Beretka Gellért
 ---
 
-#### __Oldalak feladatai__
+## __Oldalak feladatai__
 
-##### Korábbi sorsolások
+### Korábbi sorsolások
 + Az index oldal.
 + Előző két heti lottó sorsolások nyerőszámait mutatja.
 
 ![index.html](/kepek/index_oldal.png)
 ---
 
-##### Leggyakoribb számok
+### Leggyakoribb számok
 + A leggyakrabban kihúzott három számot mutatja.
 
 ![leggyakoribb.html](/kepek/Legygyak_szam.png)
 ---
 
-##### Leghasonlóbb számsorok
+### Leghasonlóbb számsorok
 + A két leghasonlóbb kihúzott számsort mutatja.
 
 ![leghasonlobb.html](/kepek/Leghas_szam.png)
 ---
 
-##### Leghosszabb sorozatok számsorokban
+### Leghosszabb sorozatok számsorokban
 + A kihúzott 3 leghosszabb sorozatot mutatja.
 
 ![leghosszabb.html](/kepek/Leghosz_sor.png)
 ---
 
 
-##### Legkisebb összegű számsorok
+### Legkisebb összegű számsorok
 + A három legkisebb összegű húzás számait mutatja.
 
 ![legkisebb.html](/kepek/Legkis_ossz.png)
 ---
 
-##### Grafikonok
+### Grafikonok
 + Az első grafikon megmutatja az ötös találatok nyereményértékét időben visszafelé haladva.
 + A második grafikon megmutatja mind a 90 szám gyakoriságát.
 
 ![grafikon.html](/kepek/Grafikonok.png)
 ---
 
-##### Érdekes történetek
+### Érdekes történetek
 + Az oldal egy érdekes történetet mutat be a lottó világában.
 
 ![erdekes.html](/kepek/Erd_tort.png)
