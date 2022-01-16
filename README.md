@@ -22,7 +22,7 @@
 ##### Leggyakoribb számok
 + A leggyakrabban kihúzott három számot mutatja.
 
-![leggyakoribb.html](/kepek/Leggyak_szam.png)
+![leggyakoribb.html](/kepek/Legygyak_szam.png)
 ---
 
 ##### Leghasonlóbb számsorok
