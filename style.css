@@ -27,25 +27,22 @@ p
     padding: 0;
 }
 
-.nepls{
-  display:none;
-}
 .betumeret
 {
     font-size: 60px;
 }
 
-/*.container
+.container
 {
  margin-left: 500px;
  display: block;
  margin-top: 0px;
  padding-top: 100px;
  padding-right: 500px;
- padding-left: 90px;
+ padding-left: 250px;
  
 }
-*/
+
 h2
 {
     font-weight: bold;
@@ -106,7 +103,6 @@ a
 #main {margin-left: 4px;}
 
 @media screen and (max-width: 900px) {
- .nepls{display:block}
   #main {margin-left: 216px;}
   nav{
     display:block;  
@@ -117,4 +113,11 @@ a
     height: 20%;
   }
   nav img{display:none;}
+  .container
+  {
+      padding-left: 100px;
+      padding-right: 0px;
+      margin-left: 0px;
+      margin-right: 0px;
+  }
 }
