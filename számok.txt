@@ -1,0 +1,21 @@
+Az elõzõ heti nyerõszámok: 30	54	55	81	89
+
+Múlt heti nyerõ számok: 30	57	58	61	86
+
+Leggyakoribb számok:   3      1	     29
+		     218db  209db   208db
+
+Leghasonlóbb számsorok: 3	12	20	29	36   :   1995. 21.hét
+			3	12	22	29	36   :   1976. 43.hét
+
+A 3 leghosszabb sorozatot tartalmazó számsor:3	  53	  54 	 55 	57   :	1993. 3.hét
+					     27	  29	  30 	 31 	71   :	1972. 48.hét
+					     10	  13	  60 	 61 	62   :	1926. 26.hét
+
+Legkisebb összegû számsorok: 2   3   6   8   30, 		összeg: 49
+			   : 2   6   9   23  26, 		összeg: 66
+			   : 1   12  13  15  26, 		összeg: 67
+
+
+
+
