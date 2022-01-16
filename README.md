@@ -1,7 +1,8 @@
 # __Lottó Projekt__
 
-### [Github](https://beretkag.github.io/FirePlace/)
+### [Github](https://github.com/beretkag/FirePlace)
 ### [Jira](https://bg-1.atlassian.net/jira/)
+### [Weboldal](https://beretkag.github.io/FirePlace/)
 
 ---
 
