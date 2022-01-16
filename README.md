@@ -60,8 +60,8 @@
 
 ### Könyvtárszerkezet:
 
-FirePlace főkonyvtár - css és html oldalak
+FirePlace főkönyvtár - css és html oldalak
 
-/csv és python - a csv fjlok és grafikonok elemzése
+/csv és python - a csv fájlok és grafikonok elemzése
 
 /kepek - összes felhasznált kép a projekt során
